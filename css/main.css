@@ -29,6 +29,7 @@ img{
 h1{
     background-image: url(../img/doggie.jpeg); /*https://unsplash.com/photos/915UJQaxtrk*/
     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     padding: 1rem;
     padding-bottom: 10rem;
@@ -36,14 +37,14 @@ h1{
     padding-right: 1rem;
     text-align: right;
     color: tan;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 1px dimgray;
 }
 button.search-btn{
     margin-top: .5rem;
     padding: .5rem;
     background-color: darkturquoise;
     border-radius: 10px;
-    border-color: white;
+    border-color: dimgray;
 }
 @media (max-width: 599px){
     form{
