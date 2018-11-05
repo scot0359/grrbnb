@@ -26,7 +26,7 @@ img{
     width: 100px;
 }
 h1{
-    background-image: url(/img/doggie.jpeg); /*https://unsplash.com/photos/915UJQaxtrk*/
+    background-image: url(../img/doggie.jpeg); /*https://unsplash.com/photos/915UJQaxtrk*/
     background-size: cover;
     background-repeat: no-repeat;
     padding: 1rem;
